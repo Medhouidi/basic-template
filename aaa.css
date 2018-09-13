@@ -1,0 +1,176 @@
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: ;
+    overflow: hidden;
+    background-color :white ;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:white ;
+}
+
+.logo{
+
+    position: absolute;
+    left: 5px;
+    width: 100px;
+    top: -21px;
+   
+    
+}
+
+
+.A1{
+
+border:1px solid black;
+bottom: 50%;
+
+}
+
+.text{
+
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    text-align: center;
+    color: antiquewhite;
+    bottom: 71%;
+    font-size: 63px; 
+
+}
+
+.text2{
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    text-align: center;
+    color: antiquewhite;
+    bottom: 68%;
+    font-size: 20px; 
+
+
+}
+
+
+.border{
+
+    
+    border: 1px solid black;
+
+    background-image: url(02.jpg);
+   padding-bottom: 580px;
+    
+    
+       
+}
+
+.p{
+
+    border:1px solid white;
+    position: absolute;
+    right: 545px;
+    left:580px;
+    bottom: 60px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 6px 20px;
+
+}
+
+
+
+
+body{
+
+    margin: 0px;
+    
+}
+
+
+
+jude {
+
+    width: 100px;
+    border: 4px black;
+}
+
+
+h1{
+
+    text-align: center;
+}
+
+hr {
+
+width: 120px;
+}
+
+br {
+
+    word-spacing: 30px;
+}
+
+table {
+
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.over{
+
+    word-spacing: 40%;
+}
+
+.val{
+
+    text-align: center;
+}
+
+.learn {
+   
+border: 1px solid black;
+width: 110px;
+position: absolute;
+left: 500px;
+
+}
+
+.explore 
+
+{
+
+    border: 1px solid black;
+    width: 120px;
+    background-color:darkgray;
+    position: absolute;
+    left: 700px;
+    
+}
+
+.explore,.learn{
+
+    display: inline-block;
+    padding: 13px 23px;
+    
+}
+
+.green {
+
+    border: 1px solid white;
+    background-color: rgb(37, 223, 37);
+
+}
